@@ -1,0 +1,5 @@
+{
+  "name": "AI 3D Shape Generator",
+  "description": "Describe a 3D object and watch it come to life. Export your creations to GLB for use in other 3D software.",
+  "requestFramePermissions": []
+}
